@@ -60,7 +60,7 @@ inflation %>%
 
 ```{r}
 # use a function without loading the package:
-# package::function
+ #package::function
 usethis::use_git_config(
   user.name = "Aya Uchida", # <-- change to your name
   user.email = "auchida@student.unimelb.edu.au", # <-- and your email
